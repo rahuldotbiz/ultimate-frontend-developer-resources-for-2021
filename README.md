@@ -10,6 +10,7 @@ You only need this post to become a Front-end Developer because this post has ne
 -  [Hackernoon ](https://hackernoon.com/) - An Independent Tech Media Site
 
 <hr>
+
 # Must have Chrome extensions
 -  [DailyDev](https://api.daily.dev/get?r=emmaturner) - Get the latest new about the Dev community in your chrome default tab.
 -  [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - Get to know which font is the website using. 
