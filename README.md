@@ -260,6 +260,7 @@ You’ve downloaded Git, now what? Download Git-It to your machine and you’ll 
 -  [Front-end Developer Interview Questions](http://flowerszhong.github.io/) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. 
 
 <hr>
+
 # ⚡Giveaway ⚡
 I am giving away any course you need on Udemy. Any price any course. 
 Steps to enter the giveaway
