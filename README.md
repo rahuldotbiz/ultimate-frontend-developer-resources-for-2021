@@ -272,7 +272,7 @@ Or use this [ Link ](https://forms.gle/1XvSyuBGRJq5Lekd9) to fill the form.
 **Winner will be announced after a Week**
 
 <hr>
-Get the amazing  [Daily.dev](https://api.daily.dev/get?r=emmaturner)  extension for your browser. Amazing ideas and articles in just you default chrome tab. 
+Get the amazing  <a href="https://api.daily.dev/get?r=emmaturner" target="_blank">DailyDev</a>  extension for your browser. Amazing ideas and articles in just you default chrome tab. 
 <hr>
 
 Thanks For Seeing this post. <br />
