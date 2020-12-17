@@ -277,6 +277,16 @@ Get the amazing  <a href="https://api.daily.dev/get?r=emmaturner" target="_blank
 
 Thanks For Seeing this post. <br />
 If you didn't liked this post let me know in the comments<br />
-If i am missing anything let me know in the comments i will surely add in mins <br />
+You're welcome to add any resources you need.
 
-Find the Resources on GitHub. 
+<!-- ADD RESOURCES ABOVE THE GIVEAWAY PARA AND YOUR RESOURCES SHOULD BE BETWEEN `hr` tags-->
+
+
+
+
+
+<hr>
+
+# FUND ME
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rahxuls" data-color="#FFDD00" data-emoji="🍕"  data-font="Lato" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
