@@ -287,8 +287,10 @@ You're welcome to add any resources you need.
 
 <hr>
 
-# FUND ME
+# Help Me
 
 <a href="https://www.buymeacoffee.com/rahxuls" target="_blank"> 
 <img src="https://res.cloudinary.com/rahulism1/image/upload/v1608182430/bmc_nbxakd.png"></a>
+
+Thank You So much!!!!
 
