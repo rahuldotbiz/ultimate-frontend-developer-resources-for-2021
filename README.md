@@ -289,4 +289,6 @@ You're welcome to add any resources you need.
 
 # FUND ME
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rahxuls" data-color="#FFDD00" data-emoji="🍕"  data-font="Lato" data-text="Buy me a pizza" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/rahxuls" target="_blank"> 
+<img src="https://res.cloudinary.com/rahulism1/image/upload/v1608182430/bmc_nbxakd.png"></a>
+
