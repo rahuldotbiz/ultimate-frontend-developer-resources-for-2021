@@ -271,7 +271,8 @@ Steps to enter the giveaway
 **Winner will be announced after a Week**
 
 <hr>
-Get the amazing  <a href="https://api.daily.dev/get?r=emmaturner" target="_blank">DailyDev</a>  extension for your browser. Amazing ideas and articles in just you default chrome tab. 
+Get the amazing  <a href="https://api.daily.dev/get?r=emmaturner" target="_blank">DailyDev</a>. Amazing ideas and articles on your default chrome tab. 
+
 <hr>
 
 Thanks For Seeing this post. <br />
