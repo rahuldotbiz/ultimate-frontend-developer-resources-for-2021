@@ -276,7 +276,6 @@ Get the amazing  <a href="https://api.daily.dev/get?r=emmaturner" target="_blank
 <hr>
 
 Thanks For Seeing this post. <br />
-If you didn't liked this post let me know in the comments<br />
 You're welcome to add any resources you need.
 
 <!-- ADD RESOURCES ABOVE THE GIVEAWAY PARA AND YOUR RESOURCES SHOULD BE BETWEEN `hr` tags-->
