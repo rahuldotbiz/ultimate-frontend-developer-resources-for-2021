@@ -266,10 +266,7 @@ I am giving away any course you need on Udemy. Any price any course.
 Steps to enter the giveaway
 - React to this post
 - Answer a simple question 
-- And fill this **Giveaway Form**
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScpjGlKofKbKQhm6b1A_1qATxunIWApHrqv_hXb6wdlaHSklQ/viewform?embedded=true" width="650" height="755" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Or use this [ Link ](https://forms.gle/1XvSyuBGRJq5Lekd9) to fill the form.  
+- And fill this <a href="https://forms.gle/1XvSyuBGRJq5Lekd9" target="_blank">**Giveaway Form**</a>
 
 **Winner will be announced after a Week**
 
